@@ -1,7 +1,7 @@
 {
 	"id": "rfc2119-keywords-highlighter",
 	"name": "RFC2119 Keywords Highlighter",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
 	"description": "An obsidian plugin to highlight RFC2119 keywords in the markdown.",
 	"author": "alivedise",
